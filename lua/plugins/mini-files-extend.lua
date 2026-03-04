@@ -1,0 +1,26 @@
+return {
+  -- "echasnovski/mini.files",
+  -- keys = {
+  --   {
+  --     "<leader>ef",
+  --     function()
+  --       require("mini.files").open(vim.api.nvim_buf_get_name(0), true)
+  --     end,
+  --     desc = "Open mini.files (Directory of Current File)",
+  --   },
+  --   {
+  --     "<leader>ec",
+  --     function()
+  --       require("mini.files").open(vim.loop.cwd(), true)
+  --     end,
+  --     desc = "Open mini.files (cwd)",
+  --   },
+  --   {
+  --     "<leader>er",
+  --     function()
+  --       require("mini.files").open(LazyVim.root(), true)
+  --     end,
+  --     desc = "Open mini.files (Root Dir)",
+  --   },
+  -- },
+}

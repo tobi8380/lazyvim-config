@@ -1,0 +1,27 @@
+return {
+  -- {
+  --   "folke/which-key.nvim",
+  --   event = "VeryLazy",
+  --   opts = {
+  --     -- your configuration comes here
+  --     -- or leave it empty to use the default settings
+  --     -- refer to the configuration section below
+  --     spec = {
+  --       { "<leader>e", group = "explore", icon = "󰙅" },
+  --     },
+  --   },
+  --   -- keys = {
+  --   --   {
+  --   --     "<leader>e",
+  --   --     -- function()
+  --   --     --   require("which-key").show({ global = false })
+  --   --     -- end,
+  --   --     desc = "+explore",
+  --   --   },
+  --   -- },
+  --   --
+  --   --
+  --   --
+  --   --
+  -- },
+}
